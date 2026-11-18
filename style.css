@@ -64,3 +64,10 @@ nav a {
     text-decoration: none;
     margin: 15px;
 }
+
+footer {
+    background-color: #243447;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
